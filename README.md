@@ -11,3 +11,5 @@ chmod 777 scrollcount.sh
 Execute: 
 
 ./scrollcount.sh
+
+# No need to add a custom API key, any work
